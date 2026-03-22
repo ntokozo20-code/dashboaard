@@ -1,6 +1,6 @@
 import { useState } from "react"
 import Header from "./components/Header"
-import Sidebar from "./components/Sidebar" // when you create it
+import Sidebar from "./components/Sidebar"
 
 function App() {
   const [count, setCount] = useState(0)
